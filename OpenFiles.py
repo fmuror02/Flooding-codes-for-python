@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 27 15:42:24 2022
 
-@author: maria
-"""
 
 n = 0
 
